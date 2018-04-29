@@ -1,18 +1,22 @@
 # Jobs
-# Trainer
-- company: GitHub, Inc.
-  position: GitHub Trainer
-  duration: March, 2012 &mdash; Present
-  summary: Teach all things Git, give away all the stickers, ensure world peace.
+# Sysadmin Intern
+- company: Center for Biomolecular Science and Engineering
+  position: Systems Administrator Intern
+  duration: August 2009 - June 2010
+  summary: Learn the ways of IT
 
-# Job Title
-- company: Conway Meats
-  position: Web Developer
-  duration: May, 2014 &mdash; May, 2015
-  summary: Web developer for a restuarant meat provider.
+# Tech helper guy
+- company: Cruzio Internet
+  position: Tech helper guy
+  duration: September 2013 &mdash; 
+  summary: Tech support for range of ISP issues.
 
-# Supportocat
-- company: GitHub, Inc.
-  position: Supportocat, GitHub for Business
+# Uber / Rideshare
+- company: Uber 
+  position: Rideshare Driver
   duration:  June 2016 &mdash; Present
-  summary: Provide world class support to customers on the GitHub for Business platform
+  summary: locomote all across the SF Bay and Los Angeles areas
+
+# Freelance Coding
+- company: self?
+  position: Web developer for SMB clients.
